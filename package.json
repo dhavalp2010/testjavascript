@@ -4,7 +4,7 @@
   "description": "Test sample application",
   "main": "index.js",
   "dependencies": {
-    "@angular/animations": "7.0.0",
+    "@angular/animations": "9.1.7",
     "@angular/cdk": "^7.0.0",
     "@angular/common": "7.0.0",
     "@angular/compiler": "7.0.0",
